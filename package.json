@@ -1,0 +1,20 @@
+{
+  "name": "handwriting",
+  "version": "1.0.0",
+  "description": "handwritting",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": "https://github.com/zangke/handwriting.git",
+  "author": "AndyZhang <zangke168@foxmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.20.1"
+  },
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7"
+  }
+}
