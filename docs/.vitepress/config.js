@@ -24,6 +24,18 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    // 头部导航
+    nav: [
+      {
+        text: "首页",
+        link: "/",
+      },
+      {
+        text: "日记",
+        link: "/notes/",
+      },
+    ],
+    // 侧边导航
     sidebar: {
       "/": [
         { text: "简介", link: "/" },
@@ -35,7 +47,6 @@ module.exports = {
       ],
     },
     search: true,
-    pageSize: 10,
     lastUpdated: false,
     repo: "zangke/handwriting",
     docsDir: "docs",
