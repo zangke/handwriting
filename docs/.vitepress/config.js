@@ -24,6 +24,7 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    logo: "/logo.png",
     // 头部导航
     nav: [
       {
