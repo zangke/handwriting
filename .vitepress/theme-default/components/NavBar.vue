@@ -17,7 +17,7 @@
       <div v-if="repo" class="item">
         <a
           class="nav-btn"
-          href="https://github.com/jekip/naive-ui-admin"
+          href="https://github.com/zangke/handwriting"
           target="_blank"
           aria-label="View GitHub Repo"
         >
