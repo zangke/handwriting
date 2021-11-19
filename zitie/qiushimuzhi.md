@@ -13,40 +13,40 @@
 
 ## 拓片
 
-<a data-fancybox="gallery" href="image/image-20211118071145597.png">
-    <img src="image/image-20211118071145597.png">
+<a data-fancybox="gallery" href="/image/image-20211118071145597.png">
+    <img src="/image/image-20211118071145597.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118071318307.png">
-    <img src="image/image-20211118071318307.png">
+<a data-fancybox="gallery" href="/image/image-20211118071318307.png">
+    <img src="/image/image-20211118071318307.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118071410557.png">
-    <img src="image/image-20211118071410557.png">
+<a data-fancybox="gallery" href="/image/image-20211118071410557.png">
+    <img src="/image/image-20211118071410557.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118071449254.png">
-    <img src="image/image-20211118071449254.png">
+<a data-fancybox="gallery" href="/image/image-20211118071449254.png">
+    <img src="/image/image-20211118071449254.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118071540967.png">
-    <img src="image/image-20211118071540967.png">
+<a data-fancybox="gallery" href="/image/image-20211118071540967.png">
+    <img src="/image/image-20211118071540967.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118071603129.png">
-    <img src="image/image-20211118071603129.png">
+<a data-fancybox="gallery" href="/image/image-20211118071603129.png">
+    <img src="/image/image-20211118071603129.png">
 </a>
 
 ## 部分拓片放大
 
-<a data-fancybox="gallery" href="image/image-20211118072030541.png">
-    <img src="image/image-20211118072030541.png">
+<a data-fancybox="gallery" href="/image/image-20211118072030541.png">
+    <img src="/image/image-20211118072030541.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118072045862.png">
-    <img src="image/image-20211118072045862.png">
+<a data-fancybox="gallery" href="/image/image-20211118072045862.png">
+    <img src="/image/image-20211118072045862.png">
 </a>
 
-<a data-fancybox="gallery" href="image/image-20211118072134189.png">
-    <img src="image/image-20211118072134189.png">
+<a data-fancybox="gallery" href="/image/image-20211118072134189.png">
+    <img src="/image/image-20211118072134189.png">
 </a>

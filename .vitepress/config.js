@@ -139,6 +139,10 @@ function createSidebar() {
             text: '丘师墓志',
             link: '/zitie/qiushimuzhi',
           },
+          {
+            text: '苏轼《归去来兮辞》',
+            link: '/zitie/sdp_gqlxc',
+          },
         ],
       },
     ],
