@@ -143,6 +143,10 @@ function createSidebar() {
             text: '苏轼《归去来兮辞》',
             link: '/zitie/sdp_gqlxc',
           },
+          {
+            text: '赵孟頫《归去来兮辞》',
+            link: '/zitie/zmf_gqlxc',
+          },
         ],
       },
     ],
