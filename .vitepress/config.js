@@ -147,6 +147,23 @@ function createSidebar() {
             text: '赵孟頫《归去来兮辞》',
             link: '/zitie/zmf_gqlxc',
           },
+          {
+            text: '蔡京行书《王希孟千里江山图跋》',
+            link: '/zitie/cj_qljstb',
+          },
+          {
+            text: '蔡京行书《跋宋徽宗唐十八学士图卷》',
+            link: '/zitie/cj_sbxst',
+          },
+          {
+            text: '蔡京行书送郝玄明使秦一首',
+            link: '/zitie/cj_shxm',
+          },
+          {
+            text: '蔡京《题赵佶听琴图》',
+            link: '/zitie/cj_zjtqt',
+          },
+          
         ],
       },
     ],
