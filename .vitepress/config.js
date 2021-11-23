@@ -163,7 +163,10 @@ function createSidebar() {
             text: '蔡京《题赵佶听琴图》',
             link: '/zitie/cj_zjtqt',
           },
-          
+          {
+            text: '冯志福岳阳楼记行书字帖',
+            link: '/zitie/xs_yylj',
+          },
         ],
       },
     ],
