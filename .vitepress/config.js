@@ -177,6 +177,10 @@ function createSidebar() {
           text: '杨凝式神仙笔法临摹',
           link: '/zitie/yns_sxbf',
         },
+        {
+          text: '杨凝式《韭花帖》',
+          link: '/zitie/yns_jht',
+        },
       ],
     }, ],
     '/zhishi/': [{
