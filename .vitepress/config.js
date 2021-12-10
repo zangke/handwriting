@@ -117,6 +117,10 @@ function createSidebar() {
           text: '米芾',
           link: '/shujia/mifu',
         },
+        {
+          text: '杨凝式',
+          link: '/shujia/yangningshi',
+        },
       ],
     }, ],
     '/zitie/': [{
